@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua!! 👋
+
+Perkenalkan nama saya **Aysuka Ansari**.
+
+Saya seorang mahasiswa jurusan Ilmu Komputer di IPB University.
+
+Saya saat ini sedang mengembangkan kemampuan saya sebagai Android Developer.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/aysukaansari/)-ku ya.
 
 <!--
 **dummyheaad/dummyheaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
