@@ -1,12 +1,12 @@
-# Halo semua!! 👋
+# Hello, everybody !! 👋👋👋
 
-Perkenalkan nama saya **Aysuka Ansari**.
+My name is **Aysuka Ansari**.
 
-Saya seorang mahasiswa jurusan Ilmu Komputer di IPB University.
+I am an Undergraduate Computer Science Student at **IPB University**.
 
-Saya saat ini sedang mengembangkan kemampuan saya sebagai Android Developer.
+I'm currently developing my skill as a Backend Developer.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/aysukaansari/)-ku ya.
+Connect with me via [LinkedIn](https://www.linkedin.com/in/aysukaansari/)
 
 <p align="left">
 <a href="https://github.com/dummyheaad">
