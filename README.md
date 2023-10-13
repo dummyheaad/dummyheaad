@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F78F8F&center=true&vCenter=true&width=700&height=60&lines=My+name+is+Aysuka+Ansari.;You+can+call+me+%22Uka%22." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F78F8F&center=true&vCenter=true&width=700&height=60&lines=My+name+is+Aysuka+Ansari.;You+can+call+me+%22Uka%22." alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
