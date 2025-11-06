@@ -32,7 +32,7 @@
   </ul>
 </div>
 
-- 🔭 I’m currently learning at IPB University
+- 🔭 I’m a Computer Science Bachelor at IPB University
 - 🌱 I’m currently developing my skill as a Backend Developer
 - ⚡ Fun fact: I love EDM and anything about audio
 - 💬 Connect with me via [LinkedIn](https://www.linkedin.com/in/aysukaansari/)
